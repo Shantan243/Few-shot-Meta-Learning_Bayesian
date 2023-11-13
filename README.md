@@ -1,4 +1,5 @@
 # Few-shot-Meta-Learning_Bayesian
+This is extension to oneshot_learning by siamese. Please go through readme of oneshot for dataset link
 To classify the images using Few shot Meta-learning with Bayesian &amp; Deep Kernel transfer
 The dataset used here are 1. Casted iron from Kaggle has 2 labels (Defect/No Defect), 2. Automobilt tool parts (Private dataset) and 3. GC-10DET (steel defect dataset available on Kaggle)
 Meta-learning or as often referred to learning to learn is achieved by abstracting learning into two or more levels. The inner-most levels acquire task-specific knowledge (e.g. fine-tuning a model on a new dataset) , whereas the outer-most level acquires across-task knowledge (e.g. learning to transfer between tasks more efficiently).
